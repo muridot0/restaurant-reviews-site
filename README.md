@@ -1,1 +1,1 @@
-# restaurant-reviews-site
+Practice Restaurant Review Website (Incomplete).
